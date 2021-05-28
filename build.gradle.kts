@@ -30,6 +30,12 @@ dependencies {
     implementation("com.just-ai.jaicf:core:$jaicf")
     implementation("com.just-ai.jaicf:jaicp:$jaicf")
     implementation("com.just-ai.jaicf:caila:$jaicf")
+
+    implementation("com.github.jkcclemens:khttp:0.1.0")
+
+
+
+
 }
 
 tasks {
